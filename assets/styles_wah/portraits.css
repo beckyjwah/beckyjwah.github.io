@@ -92,7 +92,7 @@ h2{
 }
 
 body:after {
-  content: url(../images/close.png) url(../images/loading.gif) url(../images/prev.png) url(../images/next.png);
+  content: url(assets/was_images/close.png) url(assets/wah_images/loading.gif) url(assets/wah_images/prev.png) url(assets/wah_images/next.png);
   display: none;
 }
 
@@ -107,6 +107,7 @@ body{
     background:         linear-gradient(#c2d6d6, #004080);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    margin-bottom:10px;
 }
 a img {
     display:inline-block;
