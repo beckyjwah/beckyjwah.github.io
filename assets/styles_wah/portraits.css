@@ -68,6 +68,7 @@ footer{
     width:100%;
     background-color:#333333;
     margin:0 auto;
+    margin-bottom:10px;
     color:white;
     text-align: center;
     position:fixed;
@@ -107,7 +108,6 @@ body{
     background:         linear-gradient(#c2d6d6, #004080);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin-bottom:10px;
 }
 a img {
     display:inline-block;
