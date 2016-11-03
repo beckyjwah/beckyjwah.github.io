@@ -93,7 +93,7 @@ h2{
 }
 
 body:after {
-  content: url(assets/was_images/close.png) url(assets/wah_images/loading.gif) url(assets/wah_images/prev.png) url(assets/wah_images/next.png);
+  content: url(assets/images_wah/close.png) url(assets/images_wah/loading.gif) url(assets/images_wah/prev.png) url(assets/images_wah/next.png);
   display: none;
 }
 
