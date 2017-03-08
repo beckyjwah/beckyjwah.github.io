@@ -94,32 +94,26 @@ h2{
     }
 
 .cover {
- 
   color: white;
-  width: 50%;
+  width: 70%;
   margin: 0;
-  padding: 1% 8% 1% 10%;
+  padding: 1% 5% 1% 8%;
   float: left;
-  margin-right: 2em;
+  /*margin-right: 2em;*/
   display: block;
- /* box-shadow: 0em 0em 5em rgba(10,10,10,0.7); */
+ box-shadow: 0em 0em 5em rgba(10,10,10,0.7);
 }
 
 .stack {
-
   text-transform: uppercase;
   font-size: 12em;
   line-height: 0.7em;
   word-wrap: break-word;
   overflow-wrap: break-word;
-  
 }
-
 
 span {
 position: relative;
-  
-
 }
 
 /*W */
@@ -218,8 +212,6 @@ a img {
     margin-left:50px;
 }
 
-
-
 img{
     /*margin-left: auto;
     margin-right: auto;
@@ -239,7 +231,6 @@ p{
     padding-left: 10px;
 }
 
-
 nav a{
     color:white;
     text-decoration: none;
@@ -247,7 +238,6 @@ nav a{
     padding:15px;
     
 }
-
 
 nav{
     text-align: center;
