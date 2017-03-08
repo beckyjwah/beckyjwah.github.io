@@ -77,24 +77,9 @@ box-sizing {
 /* Web Font */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700);
 
-body {
-  background-color: black;
-  font-size: 100%;
-  width: 80%;
-  margin: 2em auto 0;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-weight: 700;
-
-}
-
-section {
-  /*overflow: hidden;*/
-  width: 60em;
-  margin: 0 auto;
-}
 
 p {
-  margin: 0;
+  margin: auto;
 }
 
 .cover {
