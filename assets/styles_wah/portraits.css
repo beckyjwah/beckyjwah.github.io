@@ -91,8 +91,103 @@ h2{
     font-size: 30px;
     color: white;
 	padding: none;
-    
+    }
+
+.cover {
+ 
+  color: white;
+  width: 50%;
+  margin: 0;
+  padding: 1% 8% 1% 10%;
+  float: left;
+  margin-right: 2em;
+  display: block;
+ /* box-shadow: 0em 0em 5em rgba(10,10,10,0.7); */
 }
+
+.stack {
+
+  text-transform: uppercase;
+  font-size: 12em;
+  line-height: 0.7em;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  
+}
+
+
+span {
+position: relative;
+  
+
+}
+
+/*W */
+.char1 {
+  margin-left: -.2em;
+  z-index: 4;
+  text-shadow: 0.05em 0.05em 0.2em rgba(10,10,10,0.9);
+}
+
+/* E */
+.char2 {
+ z-index: 3; 
+ margin-left: -.175em;
+  top: 0.01em;
+    text-shadow: -0.02em 0.02em 0.2em rgba(10,10,10,0.9);
+
+}
+
+/* L */
+.char3 {
+  z-index: 9;
+  margin-left: -.125em;
+  text-shadow: -0.05em 0.05em 0.2em rgba(10,10,10,0.9);
+  
+}
+
+/* C */
+.char4 {
+  z-index: 5;
+  margin-left: -.175em;
+  text-shadow: 0.02em -0.02em 0.2em rgba(10,10,10,0.9);
+}
+
+/* O */
+.char5 {
+  z-index: 2;
+  margin-left: -.125em;
+  top: 0.08em;
+  text-shadow: -0.05em 0.05em 0.2em rgba(10,10,10,0.9);
+}
+
+/* M */
+.char6 {
+  z-index: 10;
+    margin-left: -.125em;
+  top: -0.04em;
+  text-shadow: 0em 0em 0.2em rgba(10,10,10,0.9);
+  
+}
+
+/* E */
+.char7 {
+  z-index: 8;
+  margin-left: -.3em;
+  top: 0em;
+  text-shadow: -0.05em 0.05em 0.2em rgba(10,10,10,0.9);
+  
+}
+
+/* ! */
+.char8 {
+  z-index: 6;
+  margin-left: -.135em;
+  top: -0.05em;
+  text-shadow: 0.02em -0.01em 0.2em rgba(10,10,10,0.9);
+}
+
+
 
 body:after {
   content: url(assets/images_wah/close.png) url(assets/images_wah/loading.gif) url(assets/images_wah/prev.png) url(assets/images_wah/next.png);
