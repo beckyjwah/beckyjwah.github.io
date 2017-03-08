@@ -101,7 +101,7 @@ h2{
   float: left;
   /*margin-right: 2em;*/
   display: block;
- box-shadow: 0em 0em 5em rgba(10,10,10,0.7);
+ /*box-shadow: 0em 0em 5em rgba(10,10,10,0.7);*/
 }
 
 .stack {
