@@ -81,7 +81,7 @@ h1{
     color:white;
     padding-left: 15px;
     padding-top: 5px;
-    width:20%;
+    width:13%;
     display:inline-block;
     vertical-align: top;
     
@@ -256,10 +256,12 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #dddddd;
+/*     background-color: #dddddd; */
     width:78%;
+    min-width: 900px;
     display: inline-block;
     vertical-align: top;
+	
 }
 
 li {
