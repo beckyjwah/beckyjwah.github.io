@@ -84,7 +84,7 @@ h1{
     width:20%;
     display:inline-block;
     vertical-align: top;
-    background-color:yellow;
+    
 
 }
 
@@ -257,7 +257,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #dddddd;
-    width:76%;
+    width:79%;
     display: inline-block;
     vertical-align: top;
 }
