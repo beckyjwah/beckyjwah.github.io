@@ -59,7 +59,6 @@ header{
     height:50px;
     position: fixed;
     width:100%;
-    margin:0 auto;
 }
 
 footer{
@@ -258,7 +257,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #dddddd;
-    width:80%;
+    width:76%;
     display: inline-block;
     vertical-align: top;
 }
