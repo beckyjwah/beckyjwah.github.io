@@ -277,13 +277,13 @@ nav{
     margin:0 auto;
     font-size: 16px;
 }
-*/
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-/*     background-color: #dddddd; */
+   background-color: #dddddd; 
     width:78%;
     min-width: 900px;
     display: inline-block;
@@ -302,4 +302,4 @@ li a {
     display: block;
     padding: 8px;
 }
-
+*/
