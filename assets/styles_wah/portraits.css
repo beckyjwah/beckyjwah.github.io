@@ -96,44 +96,20 @@ h2{
     color: white;
 	padding: none;
     }
+/*nav a{
+    color:white;
+    text-decoration: none;
+    font-style:normal;
+    padding:15px;
+    
+}
 
-.navbar {
-  position: relative;
+nav{
+    text-align: center;
+    margin:0 auto;
+    font-size: 16px;
 }
-.no-js .navbar-collapse:target {
-  display: block;
-  visibility: visible;
-}
-.no-js .navbar-collapse:target .navbar-nav {
-  position: relative;
-  z-index: 9998;
-}
-.no-js .navbar-collapse-close,
-.navbar-collapse-close {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 9997;
-  background-color: rgba(255, 255, 255, 0.5);
-  font-size: 0px;
-  color: transparent;
-}
-.no-js .navbar-collapse-close:focus {
-  display: block;
-  font-size: 24px;
-  color: black;
-  background-color: rgba(100, 100, 255, 0.25);
-  z-index: 9999;
-  padding: 100px;
-  text-align: center;
-  text-decoration: none;
-}
-.no-js .navbar-collapse:target .navbar-collapse-close {
-  display: block;
-}
+*/
 
 .cover {
   color: white;
@@ -274,20 +250,6 @@ p{
     font-family:fantasy;
     color:black;
     padding-left: 10px;
-}
-
-nav a{
-    color:white;
-    text-decoration: none;
-    font-style:normal;
-    padding:15px;
-    
-}
-
-nav{
-    text-align: center;
-    margin:0 auto;
-    font-size: 16px;
 }
 
 ul {
