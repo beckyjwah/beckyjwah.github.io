@@ -250,8 +250,10 @@ a img {
     height:450;
 */
   	margin-top: 75px;
-	margin-bottom:30px;
-    	margin-left:50px;
+	margin-bottom:75px;
+    	margin:auto;
+	text-align:center;
+	padding:20px;
 }
 
 img{
