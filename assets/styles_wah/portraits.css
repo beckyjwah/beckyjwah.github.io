@@ -319,15 +319,27 @@ p{
     color:black;
     padding-left: 10px;
 }
-a footer{
+/* .footer{
     height:28px;
     bottom:0px;
-    width:100%;
+    right:0;
+    left:0;
     background-color:#333333;
-    margin:0 auto;
     color:white;
     text-align: center;
     display:block;
+    position:absolute;
+    padding: 1rem;
+}*/
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
 
 /*ul {
