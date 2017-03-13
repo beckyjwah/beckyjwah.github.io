@@ -275,7 +275,7 @@ body:after {
   display: none;
 }
 
-.section{
+body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: #c2d6d6;
@@ -286,6 +286,13 @@ body:after {
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin-bottom:20px;
+
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
 }
 
 a img {
@@ -310,7 +317,7 @@ img{
 	padding:15px;
 }
 
-p{
+/*p{
     font-size: 18px;
     word-spacing: 5px;
     font-weight: bold;
@@ -318,7 +325,7 @@ p{
     font-family:fantasy;
     color:black;
     padding-left: 10px;
-}
+}*/
 /* .footer{
     height:28px;
     bottom:0px;
