@@ -110,10 +110,20 @@ nav{
     font-size: 16px;
 }
 */
-.navebar navbar-inverse a{
+.navbarnavbar-inverse{
 	color:white;
 	text-decoration:none;
 	font-style:normal;
+	padding:15px;
+	list-style-type: none;
+    	margin: 0;
+    	overflow: hidden;
+   	background-color: #dddddd; 
+   	 width:78%;
+   	 min-width: 900px;
+   	 display: inline-block;
+   	 vertical-align: top;
+    	text-align: center;
 	padding:15px;
 }
 .container-fluid{
@@ -221,7 +231,6 @@ body:after {
   display: none;
 }
 
-
 body{
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -265,7 +274,7 @@ p{
     padding-left: 10px;
 }
 
-ul {
+/*ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -289,4 +298,4 @@ li a {
     display: block;
     padding: 8px;
 }
-
+*/
