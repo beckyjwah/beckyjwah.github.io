@@ -111,6 +111,10 @@ nav{
 }
 */
 .navebar navbar-inverse{
+	color:white;
+	text-decoration:none;
+	font-style:normal;
+	padding:15px;
 }
 .container-fluid{
 }
