@@ -231,7 +231,7 @@ body:after {
   display: none;
 }
 
-section{
+.section{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: #c2d6d6;
