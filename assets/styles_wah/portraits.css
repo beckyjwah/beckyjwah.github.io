@@ -280,6 +280,8 @@ img{
   	margin-bottom: 10px!important;
 	text-align: center!important;
 	padding:15px!important;
+	width:100px;
+	height:300px;
 }
 .face{
     width:300px;
