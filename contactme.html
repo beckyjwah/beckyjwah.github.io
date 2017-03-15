@@ -38,12 +38,23 @@
             </div>
    </div>
     </nav>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     </body>
-         <section class="box">
-            <p>email: bwah1@ucls.uchicago.edu <br>phone: 1-773-551-1218</p>
-    </section>
+  
+  <div class="container">
+     <form action="/action_page.php">
+      <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+      <label for="lname">Last Name</label>
+         <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+       <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
+</div>
     <footer> Website by Becky Wah</footer>
 </html>
 
