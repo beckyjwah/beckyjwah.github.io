@@ -62,10 +62,10 @@ header{
 }
 
 footer{
-    height:35px!important;
+    height:20px!important;
     bottom:0px!important;
     width:100%!important;
-    padding:40px!important;
+    padding:15px!important;
     background-color:#333333!important;
     margin:0 auto!important;
     color:white!important;
@@ -346,6 +346,7 @@ input[type=submit]:hover {
 input[type=text]:focus {
     border: 3px solid #555;
 }
+
 .fa {
   padding: 10px;
   font-size: 20px;
