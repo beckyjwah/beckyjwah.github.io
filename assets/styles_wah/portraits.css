@@ -62,12 +62,13 @@ header{
 }
 
 footer{
-    height:28px!important;
+    height:40px!important;
     bottom:0px!important;
     width:100%!important;
     background-color:#333333!important;
     margin:0 auto!important;
-    margin-top:10p!importantx;
+    margin-top:10px !important;
+    margin-bottom:10px!important;
     color:white!important;
     text-align: center!important;
     position:fixed!important;
