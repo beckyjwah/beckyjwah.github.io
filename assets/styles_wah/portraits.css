@@ -347,9 +347,9 @@ input[type=text]:focus {
     border: 3px solid #555;
 }
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
+  padding: 10px;
+  font-size: 20px;
+  width: 40px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
