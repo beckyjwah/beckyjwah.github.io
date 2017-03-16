@@ -70,7 +70,7 @@ footer{
     margin:0 auto!important;
     color:white!important;
     text-align: center!important;
-    position:fixed!important;
+    position:absolute!important;
     display:block!important;
 }
 
