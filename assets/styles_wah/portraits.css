@@ -294,18 +294,7 @@ img{
     color:black!important;
     padding-left: 10px!important;
 }
-.footer{
-/*    height:28px!important;
-    bottom:0px!important;
-    right:0!important;
-    left:0!important;
-    background-color:#333333!important;
-    color:white!important;*/
-    text-align: center!important;
-    display:block!important;
-    position:absolute!important;
-    padding: 15px;!important;
-}
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
