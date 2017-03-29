@@ -260,9 +260,9 @@ body{
 a img {
     display:inline-block!important;
 
-    width:450px;
+   /* width:450px;
     height:450;
-
+*/
   	margin-top: 75px !important;
     	margin:auto!important;
 	text-align:center!important;
