@@ -156,6 +156,7 @@ nav{
 
 .stack {
   text-transform: uppercase;
+  text-align:center; important!
   font-size: 10em;
   line-height: 0.5em;
   word-wrap: break-word;
