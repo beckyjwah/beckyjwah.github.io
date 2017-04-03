@@ -293,6 +293,7 @@ a img {
 
 p{
     padding:20px !important;
+    color:black; !important
 }
 
 input[type=text], select, textarea {
