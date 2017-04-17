@@ -146,7 +146,7 @@ nav{
 
 .cover {
   color: white;
-  width: 70%;
+  width: 50%;
   margin: 0;
   padding: 1% 5% 1% 8%;
   float: left; !important
@@ -158,13 +158,13 @@ nav{
 .stack {
   text-transform: uppercase;
   text-align:center !important;
-  font-size: 10em;
-  line-height: 0.5em;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
+  font-size: 10em;!important	
+  line-height: 0.5em;!important
+  word-wrap: break-word;!important
+  overflow-wrap: break-word;!important
   color:white;
   margin-left:30px !important;
-  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif"!important;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold"!important;
 }
 
 span {
