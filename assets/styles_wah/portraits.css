@@ -155,7 +155,8 @@ nav{
 	color: #111;!important
 	font-family: 'Helvetica Neue', sans-serif; font-size: 275px;!important
 	font-weight: bold;!important
-	letter-spacing: -1px; line-height: 1; text-align: center;!important
+	letter-spacing: -1px; line-height: 1;!important
+	float:left;!important
 }
 
 span {
