@@ -13,7 +13,12 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+figure, figcaption, 
+
+
+
+
+, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -67,7 +72,7 @@ header{
     background-color:#333333!important;
     color:white!important;
     text-align: center!important;
-    position:absolute!important;
+    position:fixed!important;
     display:block!important;
     margin-top:30px;!important
 }
