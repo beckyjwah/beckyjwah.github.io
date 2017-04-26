@@ -72,7 +72,7 @@ header{
     background-color:#333333!important;
     color:white!important;
     text-align: center!important;
-    position:fixed!important;
+    position:absolute!important;
     bottom:0 !important;
     display:block!important;
     margin-top:30px;!important
