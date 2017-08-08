@@ -66,7 +66,7 @@ body {
 	padding-bottom:100px; /* Height of the footer element */
 }
 p{
-    padding:20px !important;
+    padding:50px !important;
     color:black !important;
     margin:30px !important;
 }
@@ -92,7 +92,7 @@ body{
     background:         linear-gradient(#c2d6d6, #004080)!important;
     background-repeat: no-repeat!important;
     background-attachment: fixed!important;
-    margin-bottom:20px;
+    margin-bottom:50px;
 
   position: relative!important;
   margin: 0!important;
