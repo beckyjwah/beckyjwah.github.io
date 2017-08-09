@@ -138,6 +138,12 @@ body{
     background-color: #333333;
 }
 
+div a{
+    padding:50px !important;
+    color:black !important;
+    margin:30px !important;
+}
+
 .cover {
     height:50px!important;
     width:50%!important;
