@@ -144,6 +144,7 @@ footer, .push {
     margin-bottom: 0VW;
 
 }
+
 #bigstuff{
     text-align: center;
     background:white;
@@ -179,15 +180,12 @@ span {
 input[type=text]:focus {
     border: 3px solid #555;
 }
-
 .fa {
-  padding: 10px;
-  font-size: 20px;
-  width: 40px;
+  font-size: 15px;
+  width: 25px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
-  margin-bottom:15px;
+  display: inline-block;
 }
 
 .fa:hover {
