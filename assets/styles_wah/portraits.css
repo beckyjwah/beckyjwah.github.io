@@ -169,9 +169,12 @@ footer, .push {
     text-align: center;
     background:white;
 }
+#me{
+	float:right;!important
+}
 
 h1{
-    text-align: left;
+    text-align: left;!important
     font-weight: bold;
     font-size: 28px;
     color:white;
