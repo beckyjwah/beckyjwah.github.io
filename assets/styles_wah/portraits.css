@@ -134,6 +134,25 @@ body{
     margin: 0 auto -100px; /* Set footer height. */
 }
 
+a img {
+    display:inline-block;
+/*
+    width:450px;
+    height:450;
+*/
+    margin-top: 100px;
+    margin-left:40px;
+}
+
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
 footer, .push {
     height: 20px; /* Set footer height. */
     clear: both; /* Muti-column fix.*/
