@@ -206,6 +206,7 @@ span {
     margin-bottom:20px;
     margin-top:20px;
     width:70%;
+	align:center;
 }
 input[type=text] {
     width: 100%;
