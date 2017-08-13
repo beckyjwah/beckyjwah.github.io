@@ -204,6 +204,8 @@ span {
     margin-left:20px;
     margin-right:20px;
     margin-bottom:20px;
+    margin-top:20px;
+    width:70%;
 }
 input[type=text] {
     width: 100%;
