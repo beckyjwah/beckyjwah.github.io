@@ -184,10 +184,15 @@ h1{
     padding:20px !important;
     color:black !important;
     margin:30px !important;
-    text-align: center;
-    
+    text-align: center; 
 }
 
+#mylife{
+	width:70%;
+	color:black;
+	text-align:right;
+	font-size:20px;
+}
 
 span {
 	position: relative;
