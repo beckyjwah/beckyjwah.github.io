@@ -59,35 +59,23 @@
 </style>
 </head>
 
+	<div class="topnav" id="myTopnav">
+      <a href="#beckywah" class="active">Becky Wah</a>
+      <a href="#home">Home</a>
+      <a href="#figuredrawingt">Figure Drawing</a>
+      <a href="#stilllifet">Still Life</a>
+      <a href="#architecture">Architecture</a>
+      <a href="#portraits">Portraits</a>
+      <a href="#miscellaneousprojectst">Miscellaneous Projects</a>
+      <a href="#about">About</a>
+      <a href="#contactme">Contact Me</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
   
 <body>
-  <div id="wrapper">
- <nav class="navbar navbar-inverse" style="margin-bottom:0px;">
-      <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>                        
-            </button>
-      		<a class="navbar-brand" href="index.html">Becky Wah</a>
-    	</div>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <ul class="nav navbar-nav">
-                  <li class="active"><a href="index.html">Home</a></li>
-                  <li><a href="figuredrawing.html">Figure Drawing</a></li>
-                  <li><a class="nav-link" href="stilllife.html">Still Life</a></li>
-                  <li><a class="nav-link" href="architecture.html">Architecture</a></li>
-                  <li><a class="nav-link" href="portraits.html"> Portraits </a></li>
-                  <li><a class="nav-link" href="abstract.html"> Miscellaneous Projects/ Drawings</a></li>
-                  <li><a class="nav-link" href="about.html">About</a></li>
-                  <li><a class="nav-link" href="contactme.html">Contact Me</a></li>
-               </ul>                
-            </div>
-  	 </div>
-        </nav>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
         <div> 
         <a class="figure drawing" href="assets/images_wah/portfolio/nude.png" data-lightbox="figure drawing" data-title="Consecutive Movements 1, 30 in. x22 in. , charcoal on paper, 2015"> 
              <img src="assets/images_wah/portfolio/nude_thmb.png" alt="Self Portrait">
@@ -149,7 +137,16 @@
         </div>
     
         <script src="assets/scripts_wah/lightbox-plus-jquery.js"></script>
-  </div>
+     <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+    </script>
         <footer>
             <a href="https://www.facebook.com/becky.wah.3" class="fa fa-facebook"></a>
             <a href="https://www.instagram.com/?hl=en" class="fa fa-instagram"></a>
