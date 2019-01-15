@@ -60,31 +60,20 @@
 </head>
 
 <body> 
-  <div id="wrapper">
-    <nav class="navbar navbar-inverse" style="margin-bottom:0px;">
-      <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>                        
-            </button>
-      		<a class="navbar-brand" href="index.html">Becky Wah</a>
-    	</div>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <ul class="nav navbar-nav">
-                  <li class="active"><a href="index.html">Home</a></li>
-                  <li><a href="figuredrawing.html">Figure Drawing</a></li>
-                  <li><a class="nav-link" href="stilllife.html">Still Life</a></li>
-                  <li><a class="nav-link" href="architecture.html">Architecture</a></li>
-                  <li><a class="nav-link" href="portraits.html"> Portraits </a></li>
-                  <li><a class="nav-link" href="abstract.html"> Miscellaneous Projects/ Drawings</a></li>
-                  <li><a class="nav-link" href="about.html">About</a></li>
-                  <li><a class="nav-link" href="contactme.html">Contact Me</a></li>
-               </ul>                
-            </div>
-  	     </div>
-      </nav>
+   <div class="topnav" id="myTopnav">
+      <a href="#beckywah" class="active">Becky Wah</a>
+      <a href="index.html">Home</a>
+      <a href="figuredrawing.html">Figure Drawing</a>
+      <a href="stilllife.html">Still Life</a>
+      <a href="architecture.html">Architecture</a>
+      <a href="portraits.html">Portraits</a>
+      <a href="abstract.html">Miscellaneous Projects</a>
+      <a href="about.html">About</a>
+      <a href="contactme.html">Contact Me</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
   
   <div class="button">
      <form action="mailto:wah22b@mtholyoke.edu">
@@ -102,6 +91,16 @@
   </form>
   </div>
 </div>
+   <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+    </script>
         <footer>
             <a href="https://www.facebook.com/becky.wah.3" class="fa fa-facebook"></a>
             <a href="https://www.instagram.com/?hl=en" class="fa fa-instagram"></a>
