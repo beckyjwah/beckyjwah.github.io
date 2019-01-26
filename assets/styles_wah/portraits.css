@@ -156,12 +156,14 @@ img{
 
 footer, .push {
     height: 20px; /* Set footer height. */
-    clear: both; /* Muti-column fix.*/
-    background:#333333;
-    color:black;
+    background-color:#333333;
+    color:#000000;
     text-align: center;
     bottom:0;
-    margin-bottom: 0VW;
+    position: fixed;
+    left:0;
+    bottom:0;
+    
 
 }
 
@@ -175,20 +177,20 @@ h1{
     text-align: left;!important
     font-weight: bold;
     font-size: 28px;
-    color:white;
+    color:#ffffff;
     padding-left: 15px;
     padding-top: 5px;
     display:inline-block;
 }
 #paragraph{
     padding:20px !important;
-    color:black !important;
+    color:#000000 !important;
     margin:30px !important;
     text-align: center; 
 }
 
 #mylife{
-	color:black;
+	color:#000000;
 	text-align:center;
 	font-size:18px;
 	padding:50px;
