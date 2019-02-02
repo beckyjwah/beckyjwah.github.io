@@ -167,6 +167,7 @@ footer {
     text-align: center;
     display:inline-block; 
     width:100%;
+    word-spacing:5 px; 
 }
 
 h1{
@@ -183,6 +184,7 @@ h1{
     color:#000000 !important;
     margin:30px !important;
     text-align: center; 
+    word-spacing:5 px;
 }
 
 #mylife{
@@ -190,6 +192,7 @@ h1{
 	text-align:center;
 	font-size:18px;
 	padding:50px;
+	word-spacing:5 px;
 }
 
 span {
