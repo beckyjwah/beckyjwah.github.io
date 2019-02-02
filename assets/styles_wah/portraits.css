@@ -154,12 +154,11 @@ img{
     
 }
 
-footer, .push {
-    height: 20px; /* Set footer height. */
+footer {
+    width:100%; /* Set footer height. */
     background-color:#333333;
     color:#000000;
     text-align: center;
-    bottom:0;
     position: fixed;
     left:0;
     bottom:0;
