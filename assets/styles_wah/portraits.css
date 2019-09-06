@@ -164,7 +164,7 @@ footer {
 }
 
 #bigstuff{
-    text-align: left;
+    text-align: center;
     display:inline-block; 
     width:100%;
     word-spacing:5 px; 
@@ -183,7 +183,7 @@ h1{
     padding:20px !important;
     color:#333333 !important;
     margin:30px !important;
-    text-align: center; 
+    text-align: left; 
     word-spacing:5 px;
     font-family: "Times New Roman", Times, serif;
 }
