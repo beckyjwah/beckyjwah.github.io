@@ -164,7 +164,7 @@ footer {
 }
 
 #bigstuff{
-    text-align: center;
+    text-align: left;
     display:inline-block; 
     width:100%;
     word-spacing:5 px; 
@@ -189,7 +189,7 @@ h1{
 }
 
 #mylife{
-	color:#000000;
+	color:#4E4E4E;
 	text-align:center;
 	font-size:18px;
 	padding:50px;
