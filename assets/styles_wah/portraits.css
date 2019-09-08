@@ -167,7 +167,7 @@ footer {
     text-align: center;
     display:inline-block; 
     width:100%;
-    word-spacing:7 px; 
+    word-spacing:7px; 
 }
 
 h1{
@@ -175,16 +175,16 @@ h1{
     font-weight: bold;
     font-size: 28px;
     color:#ffffff;
-    padding-left: 20px;
-    padding-top: 10px;
+    padding-left: 30px;
+    padding-top: 30px;
     display:inline-block;
 }
 #paragraph{
     padding:50px !important;
     color:#292929 !important;
-    margin:50px !important;
+    margin:10px !important;
     text-align: left; 
-    word-spacing:5 px;
+    word-spacing:5px;
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -192,13 +192,13 @@ h1{
 	color:#292929;
 	text-align:left;
 	font-size:18px;
-	padding:70px;
-	word-spacing:5 px;
+	padding:20px;
+	word-spacing:5px;
 }
 #mylife h2{
 	color:#757575;
 	font-weight:bold;
-	font-size:18;
+	font-size:18px;
 }
 span {
 	position: relative;
