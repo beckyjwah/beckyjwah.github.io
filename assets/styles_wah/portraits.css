@@ -189,12 +189,13 @@ h1{
     font-size: 20px;
 }
 
-#mylife{
+#mylife p{
 	color:#292929;
 	text-align:left;
 	font-size:18px;
 	padding:50px;
 	word-spacing:5px;
+	text-indent:50px;
 }
 #mylife h2{
 	color:#000000;
