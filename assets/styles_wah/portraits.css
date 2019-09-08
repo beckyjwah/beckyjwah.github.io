@@ -173,10 +173,10 @@ footer {
 h1{
     text-align: left;!important
     font-weight: bold;
-    font-size: 28px;
+    font-size: 30px;
     color:#ffffff;
-    padding-left: 30px;
-    padding-top: 30px;
+    padding-left: 35px;
+    padding-top: 35px;
     display:inline-block;
 }
 #paragraph{
@@ -193,7 +193,7 @@ h1{
 	color:#292929;
 	text-align:left;
 	font-size:18px;
-	padding:40px;
+	padding:50px;
 	word-spacing:5px;
 }
 #mylife h2{
