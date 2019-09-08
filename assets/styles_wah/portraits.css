@@ -189,13 +189,15 @@ h1{
 }
 
 #mylife{
-	color:#4E4E4E;
-	text-align:center;
+	color:#292929;
+	text-align:left;
 	font-size:18px;
 	padding:50px;
 	word-spacing:5 px;
 }
-
+#mylife h2{
+	color:#757575;
+}
 span {
 	position: relative;
 }
