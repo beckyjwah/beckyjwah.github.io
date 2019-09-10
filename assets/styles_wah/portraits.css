@@ -197,6 +197,7 @@ h1{
 	word-spacing:5px;
 	text-indent:50px;
 	font-family: "Times New Roman", Times, serif;
+	display:inline-block;
 }
 #mylife h2{
 	color:#000000;
