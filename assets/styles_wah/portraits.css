@@ -193,6 +193,7 @@ h1{
 	color:#292929;
 	text-align:left;
 	font-size:18px;
+	margin:20px;
 	padding:10px;
 	word-spacing:5px;
 	text-indent:50px;
@@ -202,7 +203,7 @@ h1{
 #mylife h2{
 	color:#000000;
 	font-size:20px;
-	padding:10px;
+	padding-left:40px;
 	word-spacing:5px;
 	text-align:left;
 	font-family: "Times New Roman", Times, serif;
